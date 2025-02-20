@@ -42,11 +42,11 @@ function App() {
                   <div className="w-10 h-10 rounded-full bg-gradient-to-br from-[#00D1B2] to-[#0066FF]" />
                 </div>
                 <h1 className="text-5xl font-bold mb-4 text-white">
-                  Socketsociety
+                  SocketSociety
                 </h1>
                 <p className="text-white/80 max-w-2xl text-lg">
                   Connect your wallet and Discord to showcase your community badges. Earn rewards
-                  and build your reputation in the Socketsociety community.
+                  and build your reputation in the SocketSociety community.
                 </p>
               </div>
               <div className="mt-16 grid gap-8 lg:grid-cols-[300px,1fr]">
